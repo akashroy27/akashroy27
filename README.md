@@ -7,7 +7,7 @@
 
 - 🥇 I’m currently studying at **Khulna University, Bangladesh.**
 
-- 📝 I regularly write articles on [global, national and personal issues.](global, national and personal issues.)
+- 📝 I regularly write articles on global, national and personal issues.🙂
 
 - 📫 Reach me at **akashroy4663@gmail.com**
 
