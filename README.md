@@ -18,6 +18,12 @@
 
 <br/>  
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=akashroy27&&style=flat-square" align="center" />
+</div> 
+
+
+<br/>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -86,14 +92,10 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=akashroy27&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashroy27&hide_border=true&layout=compact" align="left" />  
+<br/>
 
-  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashroy27&hide_border=true&layout=compact" align="center" />  
 
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=akashroy27&&style=flat-square" align="center" />
-</div>  
+ 
   
 
