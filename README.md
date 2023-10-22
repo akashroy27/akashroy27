@@ -1,5 +1,4 @@
-### Words to imply me  
-### <div align="center">Programming Enthusiast || Code Lover || Lazy Fox🙂</div>  
+## <div align="center">Programming Enthusiast || Code Lover || Lazy Fox🙂</div>  
   
 
 
